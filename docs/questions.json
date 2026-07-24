@@ -1,35 +1,38 @@
 [
   {
     "id": 1,
-    "question": "Citez un animal que l'on trouve dans une ferme",
+    "question": "Les gros mots préférés au volant",
     "answers": [
-      { "text": "Vache", "points": 6 },
-      { "text": "Poule", "points": 5 },
-      { "text": "Cochon", "points": 4 },
-      { "text": "Cheval", "points": 3 },
-      { "text": "Mouton", "points": 2 }
+      { "text": "Connard/Connasse", "points": 6 },
+      { "text": "Con", "points": 5 },
+      { "text": "Enculé", "points": 4 },
+      { "text": "Abruti", "points": 3 },
+      { "text": "Putain", "points": 2 },
+      { "text": "Merde", "points": 1 }
     ]
   },
   {
     "id": 2,
-    "question": "Citez une raison de se lever la nuit",
+    "question": "La boisson préférée des français",
     "answers": [
-      { "text": "Aller aux toilettes", "points": 40 },
-      { "text": "Boire de l'eau", "points": 25 },
-      { "text": "Un bruit suspect", "points": 18 },
-      { "text": "Un enfant qui pleure", "points": 12 },
-      { "text": "Un cauchemar", "points": 5 }
+      { "text": "La Binouse", "points": 6 },
+      { "text": "De l'O", "points": 5 },
+      { "text": "Les Sodas", "points": 4 },
+      { "text": "Le Vin", "points": 3 },
+      { "text": "Le Champagne", "points": 2 },
+      { "text": "Le Jus d'Orange", "points": 1 }
     ]
   },
   {
     "id": 3,
-    "question": "Citez un plat traditionnel alsacien",
+    "question": "Le sport le plus pratiqué en France",
     "answers": [
-      { "text": "Choucroute", "points": 38 },
-      { "text": "Baeckeoffe", "points": 24 },
-      { "text": "Tarte flambée", "points": 20 },
-      { "text": "Kouglof", "points": 12 },
-      { "text": "Spaetzle", "points": 6 }
+      { "text": "Foot", "points": 6 },
+      { "text": "Basket", "points": 5 },
+      { "text": "Velo", "points": 4 },
+      { "text": "L'Equitation", "points": 3 },
+      { "text": "La Gymnastique", "points": 2 },
+      { "text": "La Pêche", "points": 1 }
     ]
   }
 ]
