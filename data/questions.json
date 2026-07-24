@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "question": "Citez un animal que l'on trouve dans une ferme",
+    "answers": [
+      { "text": "Vache", "points": 35 },
+      { "text": "Poule", "points": 28 },
+      { "text": "Cochon", "points": 20 },
+      { "text": "Cheval", "points": 12 },
+      { "text": "Mouton", "points": 5 }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Citez une raison de se lever la nuit",
+    "answers": [
+      { "text": "Aller aux toilettes", "points": 40 },
+      { "text": "Boire de l'eau", "points": 25 },
+      { "text": "Un bruit suspect", "points": 18 },
+      { "text": "Un enfant qui pleure", "points": 12 },
+      { "text": "Un cauchemar", "points": 5 }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Citez un plat traditionnel alsacien",
+    "answers": [
+      { "text": "Choucroute", "points": 38 },
+      { "text": "Baeckeoffe", "points": 24 },
+      { "text": "Tarte flambée", "points": 20 },
+      { "text": "Kouglof", "points": 12 },
+      { "text": "Spaetzle", "points": 6 }
+    ]
+  }
+]

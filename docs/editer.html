@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Modifier les questions - Familles en Or</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="editor-page">
+    <div class="top-bar">
+      <a href="index.html">&larr; Menu</a>
+      <span></span>
+    </div>
+    <h2>Modifier les questions et réponses</h2>
+
+    <div class="status-msg" id="statusMsg"></div>
+
+    <div id="questionsList"></div>
+
+    <div class="editor-actions">
+      <button class="btn btn-edit" onclick="ajouterQuestion()">+ Ajouter une question</button>
+      <button class="btn btn-play" onclick="enregistrer()">💾 Télécharger questions.json</button>
+    </div>
+  </div>
+
+  <script src="editer.js"></script>
+</body>
+</html>

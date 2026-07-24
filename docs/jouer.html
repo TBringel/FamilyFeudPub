@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Jouer - Familles en Or</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="game-page">
+    <div class="top-bar">
+      <a href="index.html">&larr; Menu</a>
+      <span id="questionCounter"></span>
+    </div>
+
+    <div class="scoreboard">
+      <div class="team">
+        <h3>Famille 1</h3>
+        <div class="score" id="score1">0</div>
+        <button onclick="attribuerPoints(1)">+ Points de la manche</button>
+      </div>
+      <div class="team">
+        <h3>Famille 2</h3>
+        <div class="score" id="score2">0</div>
+        <button onclick="attribuerPoints(2)">+ Points de la manche</button>
+      </div>
+    </div>
+
+    <div class="strikes" id="strikes">
+      <div class="strike" data-n="1" onclick="toggleStrike(this)">X</div>
+      <div class="strike" data-n="2" onclick="toggleStrike(this)">X</div>
+      <div class="strike" data-n="3" onclick="toggleStrike(this)">X</div>
+    </div>
+
+    <div class="question-box" id="questionText">Chargement...</div>
+
+    <div class="round-total">Total de la manche : <span id="roundTotal">0</span> points</div>
+
+    <div class="board" id="board"></div>
+
+    <div class="controls">
+      <button class="btn btn-edit" onclick="toutRevele()">Tout révéler</button>
+      <button class="btn btn-play" onclick="questionSuivante()">Question suivante &rarr;</button>
+    </div>
+  </div>
+
+  <script src="game.js"></script>
+</body>
+</html>
