@@ -39,10 +39,98 @@
     "id": 4,
     "question": " Lieux de l’entreprise qui font le plus fantasmer les salariés Français",
     "answers": [
-      { "text": "La Salle de Réunion", "points": 4 },
-      { "text": "Le Canapé en cuir du Boss", "points": 3 },
-      { "text": "L'Ascenseur", "points": 2 },
-      { "text": "Le Parking", "points": 1 }
+      { "text": "La Salle de Réunion", "points": 5 },
+      { "text": "Le Canapé en cuir du Boss", "points": 4 },
+      { "text": "L'Ascenseur", "points": 3 },
+      { "text": "Le Parking", "points": 2 },
+      { "text": "Le Dépôt/La Reserve", "points": 1 },
+    ]
+  },
+  {
+    "id": 5,
+    "question": " Vous êtes dans le couloir de la mort. C'est votre dernier repas. Que prenez-vous ?",
+    "answers": [
+      { "text": "Steak", "points": 6 },
+      { "text": "Sushi", "points": 5 },
+      { "text": "Pizza", "points": 4 },
+      { "text": "Pâtes/Lasagne", "points": 3 },
+      { "text": "Bacon/Porc", "points": 2 },
+      { "text": "Glace", "points": 1 }
+    ]
+  },
+  {
+    "id": 6,
+    "question": " Nommez quelque chose que vous détesteriez voir un policier tenir après avoir fouillé votre coffre.",
+    "answers": [
+      { "text": "Mes Bonnes Drogues", "points": 6 },
+      { "text": "Son Arme/Mon Arme", "points": 5 },
+      { "text": "Un Cadavre", "points": 4 },
+      { "text": "Des vêtements tachés de sang", "points": 3 },
+      { "text": "Des Menottes", "points": 2 },
+      { "text": "Une Contravention qu'il vient de rédiger", "points": 1 }
+    ]
+  },
+  {
+    "id": 7,
+    "question": " Nommez un endroit où vous considérez que tout le monde est fou, sauf vous.",
+    "answers": [
+      { "text": "Hôpital Psy", "points": 8 },
+      { "text": "Mon Travail", "points": 7 },
+      { "text": "Le Magasin/Supermarché", "points": 6 },
+      { "text": "Chez Moi #MonCompagnonEstBizarre", "points": 5 },
+      { "text": "Une Réunion de Famille", "points": 4 },
+      { "text": "Un Meeting Politique", "points": 3 },
+      { "text": "L'Eglise", "points": 2 },
+      { "text": "Les Vosges", "points": 1 }
+    ]
+  },
+  {
+    "id": 8,
+    "question": " Si vous aviez le corps d'un kangourou, que transporteriez-vous dans votre poche ventrale ?",
+    "answers": [
+      { "text": "Argent", "points": 6 },
+      { "text": "Nourriture/Bonbons", "points": 5 },
+      { "text": "Bébé/Enfants(Bizarre)", "points": 4 },
+      { "text": "Mon téléphone", "points": 3 },
+      { "text": "Alcool/Fût pour certains", "points": 2 },
+      { "text": "Une Arme car tu viens du Texas", "points": 1 }
+    ]
+  },
+  {
+    "id": 9,
+    "question": " Sondage auprès de beaucoups trop de femmes : à quel animal la plupart des hommes vous font-ils penser ?",
+    "answers": [
+      { "text": "Singes/Babouins", "points": 6 },
+      { "text": "Ânes(Crétins)", "points": 5 },
+      { "text": "Cochons", "points": 4 },
+      { "text": "Chiens", "points": 3 },
+      { "text": "Lions", "points": 2 },
+      { "text": "Loups car trop viril", "points": 1 }
+    ]
+  },
+  {
+    "id": 10,
+    "question": " Nommez quelque chose dont on devine souvent que c'est faux tellement c'est parfait.",
+    "answers": [
+      { "text": "Les Seins/Les Fesses", "points": 6 },
+      { "text": "Les Fleurs", "points": 5 },
+      { "text": "Diamant/Bijoux", "points": 4 },
+      { "text": "Les Cheveux", "points": 3 },
+      { "text": "Fruits/Aliments", "points": 2 },
+      { "text": "Les Dents", "points": 1 }
+    ]
+  },
+  {
+    "id": 11,
+    "question": " Nommez quelque chose qu'un ami pourrait vous demander de sentir pour vérifier si ça sent mauvais.",
+    "answers": [
+      { "text": "De la Nourriture/Du Lait(Son Lait ?)", "points": 7 },
+      { "text": "Vetements/Chaussures", "points": 6 },
+      { "text": "De l'Eau de Vie", "points": 5 },
+      { "text": "Ses Aisselles", "points": 4 },
+      { "text": "Son Cul (Il vient de peter)", "points": 3 },
+      { "text": "Son Haleine", "points": 2 },
+      { "text": "Ses Pieds (Pour les gros Kiffeurs)", "points": 1 }
     ]
   }
 ]
