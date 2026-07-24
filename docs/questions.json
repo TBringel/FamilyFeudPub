@@ -3,11 +3,11 @@
     "id": 1,
     "question": "Citez un animal que l'on trouve dans une ferme",
     "answers": [
-      { "text": "Vache", "points": 35 },
-      { "text": "Poule", "points": 28 },
-      { "text": "Cochon", "points": 20 },
-      { "text": "Cheval", "points": 12 },
-      { "text": "Mouton", "points": 5 }
+      { "text": "Vache", "points": 6 },
+      { "text": "Poule", "points": 5 },
+      { "text": "Cochon", "points": 4 },
+      { "text": "Cheval", "points": 3 },
+      { "text": "Mouton", "points": 2 }
     ]
   },
   {
