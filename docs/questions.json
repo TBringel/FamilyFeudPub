@@ -34,5 +34,15 @@
       { "text": "La Gymnastique", "points": 2 },
       { "text": "La Pêche", "points": 1 }
     ]
-  }
+  },
+  {
+    "id": 4,
+    "question": " Lieux de l’entreprise qui font le plus fantasmer les salariés Français",
+    "answers": [
+      { "text": "La Salle de Réunion", "points": 4 },
+      { "text": "Le Canapé en cuir du Boss", "points": 3 },
+      { "text": "L'Ascenseur", "points": 2 },
+      { "text": "Le Parking", "points": 1 }
+    ]
+  },
 ]
