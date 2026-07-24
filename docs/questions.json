@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "question": "Les gros mots préférés au volant",
+    "question": "Nommez les gros mots préférés au volant",
     "answers": [
       { "text": "Connard/Connasse", "points": 6 },
       { "text": "Con", "points": 5 },
@@ -13,7 +13,7 @@
   },
   {
     "id": 2,
-    "question": "La boisson préférée des français",
+    "question": "Nommez les boisson préférée des Français",
     "answers": [
       { "text": "La Binouse", "points": 6 },
       { "text": "De l'O", "points": 5 },
@@ -25,11 +25,11 @@
   },
   {
     "id": 3,
-    "question": "Le sport le plus pratiqué en France",
+    "question": "Nommez les sports les plus pratiqués en France",
     "answers": [
       { "text": "Foot", "points": 6 },
       { "text": "Basket", "points": 5 },
-      { "text": "Velo", "points": 4 },
+      { "text": "Vélo", "points": 4 },
       { "text": "L'Equitation", "points": 3 },
       { "text": "La Gymnastique", "points": 2 },
       { "text": "La Pêche", "points": 1 }
@@ -37,7 +37,7 @@
   },
   {
     "id": 4,
-    "question": " Lieux de l’entreprise qui font le plus fantasmer les salariés Français",
+    "question": "Lieux de l’entreprise qui font le plus fantasmer les salariés français",
     "answers": [
       { "text": "La Salle de Réunion", "points": 5 },
       { "text": "Le Canapé en cuir du Boss", "points": 4 },
@@ -48,7 +48,7 @@
   },
   {
     "id": 5,
-    "question": " Vous êtes dans le couloir de la mort. C'est votre dernier repas. Que prenez-vous ?",
+    "question": "Vous êtes dans le couloir de la mort. C'est votre dernier repas. Que prenez-vous ?",
     "answers": [
       { "text": "Steak", "points": 6 },
       { "text": "Sushi", "points": 5 },
@@ -60,7 +60,7 @@
   },
   {
     "id": 6,
-    "question": " Nommez quelque chose que vous détesteriez voir un policier tenir après avoir fouillé votre coffre.",
+    "question": "Nommez quelque chose que vous détesteriez voir un policier tenir après avoir fouillé votre coffre.",
     "answers": [
       { "text": "Mes Bonnes Drogues", "points": 6 },
       { "text": "Son Arme/Mon Arme", "points": 5 },
@@ -72,7 +72,7 @@
   },
   {
     "id": 7,
-    "question": " Nommez un endroit où vous considérez que tout le monde est fou, sauf vous.",
+    "question": "Nommez un endroit où vous considérez que tout le monde est fou, sauf vous.",
     "answers": [
       { "text": "Hôpital Psy", "points": 8 },
       { "text": "Mon Travail", "points": 7 },
@@ -86,7 +86,7 @@
   },
   {
     "id": 8,
-    "question": " Si vous aviez le corps d'un kangourou, que transporteriez-vous dans votre poche ventrale ?",
+    "question": "Si vous aviez le corps d'un kangourou, que transporteriez-vous dans votre poche ventrale ?",
     "answers": [
       { "text": "Argent", "points": 6 },
       { "text": "Nourriture/Bonbons", "points": 5 },
@@ -98,7 +98,7 @@
   },
   {
     "id": 9,
-    "question": " Sondage auprès de beaucoups trop de femmes : à quel animal la plupart des hommes vous font-ils penser ?",
+    "question": "Sondage auprès de beaucoup trop de femmes : à quel animal la plupart des hommes vous font-ils penser ?",
     "answers": [
       { "text": "Singes/Babouins", "points": 6 },
       { "text": "Ânes(Crétins)", "points": 5 },
@@ -110,7 +110,7 @@
   },
   {
     "id": 10,
-    "question": " Nommez quelque chose dont on devine souvent que c'est faux tellement c'est parfait.",
+    "question": "Nommez quelque chose dont on devine souvent que c'est faux tellement c'est parfait.",
     "answers": [
       { "text": "Les Seins/Les Fesses", "points": 6 },
       { "text": "Les Fleurs", "points": 5 },
@@ -122,13 +122,13 @@
   },
   {
     "id": 11,
-    "question": " Nommez quelque chose qu'un ami pourrait vous demander de sentir pour vérifier si ça sent mauvais.",
+    "question": "Nommez quelque chose qu'un ami pourrait vous demander de sentir pour vérifier si ça sent mauvais.",
     "answers": [
       { "text": "De la Nourriture/Du Lait(Son Lait ?)", "points": 7 },
-      { "text": "Vetements/Chaussures", "points": 6 },
+      { "text": "Vêtements/Chaussures", "points": 6 },
       { "text": "De l'Eau de Vie", "points": 5 },
       { "text": "Ses Aisselles", "points": 4 },
-      { "text": "Son Cul (Il vient de peter)", "points": 3 },
+      { "text": "Son Cul (Il vient de péter)", "points": 3 },
       { "text": "Son Haleine", "points": 2 },
       { "text": "Ses Pieds (Pour les gros Kiffeurs)", "points": 1 }
     ]
