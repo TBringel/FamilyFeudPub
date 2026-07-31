@@ -25,14 +25,14 @@
   },
   {
     "id": 3,
-    "question": "Nommez les sports les plus pratiqués en France",
+    "question": "Nommez les sports les plus pratiqués en France (Etude 2025)",
     "answers": [
       { "text": "Foot", "points": 6 },
-      { "text": "Basket", "points": 5 },
-      { "text": "Vélo", "points": 4 },
-      { "text": "L'Equitation", "points": 3 },
-      { "text": "La Gymnastique", "points": 2 },
-      { "text": "La Pêche", "points": 1 }
+      { "text": "Tennis", "points": 5 },
+      { "text": "Equitation", "points": 4 },
+      { "text": "Basket", "points": 3 },
+      { "text": "Judo", "points": 2 },
+      { "text": "Handball", "points": 1 }
     ]
   },
   {
