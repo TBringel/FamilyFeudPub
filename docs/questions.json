@@ -133,4 +133,244 @@
       { "text": "Ses Pieds (Pour les gros Kiffeurs)", "points": 1 }
     ]
   }
+  {
+    "id": 12,
+    "question": "Nommez un endroit où un homme espère que son ex psychopathe ne débarquera pas",
+    "answers": [
+      { "text": "Son travail", "points": 6 },
+      { "text": "Chez lui/sous la douche", "points": 5 },
+      { "text": "Son mariage", "points": 4 },
+      { "text": "Chez ses parents", "points": 3 },
+      { "text": "L'église", "points": 2 },
+      { "text": "Le bar/la boîte de nuit", "points": 1 }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Donnez une raison pour laquelle une femme dirait que son ex est le meilleur ex-mari qui soit",
+    "answers": [
+      { "text": "La pension alimentaire", "points": 6 },
+      { "text": "Toujours son meilleur ami", "points": 5 },
+      { "text": "Bon avec les enfants", "points": 4 },
+      { "text": "Il est mort", "points": 3 },
+      { "text": "Il est loin, en Chine", "points": 2 },
+      { "text": "Le sexe est resté explosif", "points": 1 }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Nommez un endroit où finissent les mauvais garçons",
+    "answers": [
+      { "text": "En prison", "points": 6 },
+      { "text": "En enfer, mort", "points": 5 },
+      { "text": "À Hollywood/à la télé", "points": 4 },
+      { "text": "Au bar/en boîte", "points": 3 },
+      { "text": "Au coin, puni", "points": 2 },
+      { "text": "Avec moi, les mauvaises filles", "points": 1 }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Nommez un mot à dire à la place d'un gros mot",
+    "answers": [
+      { "text": "Zut", "points": 6 },
+      { "text": "Mince", "points": 5 },
+      { "text": "Flûte", "points": 4 },
+      { "text": "Sucre", "points": 3 },
+      { "text": "Diantre", "points": 2 },
+      { "text": "Zut alors", "points": 1 }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Nommez quelque chose dont on dit souvent qu'il \"vient de filer\" à toute vitesse",
+    "answers": [
+      { "text": "Le temps/la vie", "points": 6 },
+      { "text": "Un avion", "points": 5 },
+      { "text": "Un oiseau", "points": 4 },
+      { "text": "Une voiture de police", "points": 3 },
+      { "text": "Superman", "points": 2 },
+      { "text": "Un insecte", "points": 1 }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Nommez un type de balle avec laquelle ce serait galère de jouer au tennis",
+    "answers": [
+      { "text": "Un ballon de basket", "points": 6 },
+      { "text": "Un ballon de foot", "points": 5 },
+      { "text": "Une balle de baseball", "points": 4 },
+      { "text": "Une boule de bowling", "points": 3 },
+      { "text": "Un ballon de foot US", "points": 2 },
+      { "text": "Un boulet de canon", "points": 1 }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Complétez : Il y a une fête dans mon ___",
+    "answers": [
+      { "text": "Slip", "points": 6 },
+      { "text": "Appart/ma baraque", "points": 5 },
+      { "text": "Bouche", "points": 4 },
+      { "text": "Jardin", "points": 3 },
+      { "text": "Tête", "points": 2 },
+      { "text": "Studio étudiant", "points": 1 }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Nommez un endroit où une femme ne devrait pas accepter de retrouver un homme pour un premier rendez-vous",
+    "answers": [
+      { "text": "Chez lui", "points": 6 },
+      { "text": "À l'hôtel/au motel", "points": 5 },
+      { "text": "Chez elle", "points": 4 },
+      { "text": "Au bar/en boîte", "points": 3 },
+      { "text": "Dans un club de strip-tease", "points": 2 },
+      { "text": "Dans une ruelle sombre", "points": 1 }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Nommez quelque chose que vous aimez chez un homme, que vous aimez aussi dans une tasse de café",
+    "answers": [
+      { "text": "La force/l'audace", "points": 6 },
+      { "text": "La douceur/le sucré", "points": 5 },
+      { "text": "La bonne odeur", "points": 4 },
+      { "text": "La crème", "points": 3 },
+      { "text": "Un joli corps", "points": 2 },
+      { "text": "Le côté chaud bouillant", "points": 1 }
+    ]
+  },
+  {
+    "id": 21,
+    "question": "Donnez une raison pour laquelle vous regrettez de vous être penché(e) pour ramasser une pièce par terre",
+    "answers": [
+      { "text": "Mal au dos", "points": 6 },
+      { "text": "Pantalon déchiré", "points": 5 },
+      { "text": "La raie qui se montre", "points": 4 },
+      { "text": "Impossible de se relever", "points": 3 },
+      { "text": "Un pet qui s'échappe", "points": 2 },
+      { "text": "C'est sale, y'a du sang", "points": 1 }
+    ]
+  },
+  {
+    "id": 22,
+    "question": "Nommez un endroit où maman se cache quand elle en a marre des enfants",
+    "answers": [
+      { "text": "Dans la salle de bain", "points": 6 },
+      { "text": "Au travail", "points": 5 },
+      { "text": "Dans sa chambre", "points": 4 },
+      { "text": "Au centre commercial", "points": 3 },
+      { "text": "Dans un placard", "points": 2 },
+      { "text": "Au bar", "points": 1 }
+    ]
+  },
+  {
+    "id": 23,
+    "question": "En quoi une femme est-elle comme une margarita ?",
+    "answers": [
+      { "text": "Salée", "points": 6 },
+      { "text": "Sucrée", "points": 5 },
+      { "text": "Amère/acide", "points": 4 },
+      { "text": "Forte, ça grise", "points": 3 },
+      { "text": "Froide/glacée", "points": 2 },
+      { "text": "Deux ou plus = les ennuis", "points": 1 }
+    ]
+  },
+  {
+    "id": 24,
+    "question": "Nommez quelque chose que seul un idiot ferait dans sa voiture si un policier le suit",
+    "answers": [
+      { "text": "Accélérer/faire la course", "points": 6 },
+      { "text": "Boire un coup/trinquer", "points": 5 },
+      { "text": "Téléphoner/texter", "points": 4 },
+      { "text": "Fumer un truc pas net", "points": 3 },
+      { "text": "Jeter un déchet par la fenêtre", "points": 2 },
+      { "text": "Griller un feu rouge", "points": 1 }
+    ]
+  },
+  {
+    "id": 25,
+    "question": "Nommez un endroit où une femme envoie son mari pour s'en débarrasser quelques heures",
+    "answers": [
+      { "text": "Au bar/en boîte", "points": 6 },
+      { "text": "Au stade/au bowling", "points": 5 },
+      { "text": "Au magasin de bricolage", "points": 4 },
+      { "text": "Au garage, son antre", "points": 3 },
+      { "text": "Chez un pote", "points": 2 },
+      { "text": "Direct en enfer", "points": 1 }
+    ]
+  },
+  {
+    "id": 26,
+    "question": "Nommez quelque chose que Dieu ne vous a pas donné de doigts pour faire",
+    "answers": [
+      { "text": "Se curer le nez", "points": 6 },
+      { "text": "Les mettre dans une prise électrique", "points": 5 },
+      { "text": "Se curer les fesses", "points": 4 },
+      { "text": "Les mettre dans la bouche de son/sa partenaire", "points": 3 },
+      { "text": "Piquer dans les plats des autres", "points": 2 },
+      { "text": "Se curer les oreilles", "points": 1 }
+    ]
+  },
+  {
+    "id": 27,
+    "question": "Nommez un truc à ne surtout pas faire assis au premier rang à l'église",
+    "answers": [
+      { "text": "Dormir/bâiller", "points": 6 },
+      { "text": "Parler/pester", "points": 5 },
+      { "text": "Lâcher un pet", "points": 4 },
+      { "text": "Éternuer", "points": 3 },
+      { "text": "Rire en pleine prière", "points": 2 },
+      { "text": "Se curer le nez", "points": 1 }
+    ]
+  },
+  {
+    "id": 28,
+    "question": "Selon les femmes, nommez un endroit où tous les hommes finiront un jour",
+    "answers": [
+      { "text": "En enfer/dans la tombe", "points": 6 },
+      { "text": "Au bar/en boîte", "points": 5 },
+      { "text": "Dans un club de strip-tease", "points": 4 },
+      { "text": "Aux toilettes, pendant 2h", "points": 3 },
+      { "text": "Au magasin/chez le bijoutier", "points": 2 },
+      { "text": "À la maison, au lit", "points": 1 }
+    ]
+  },
+  {
+    "id": 29,
+    "question": "Si vous et vos collègues gagniez au loto, que donneriez-vous à votre patron ?",
+    "answers": [
+      { "text": "Notre lettre de démission", "points": 6 },
+      { "text": "Un doigt d'honneur", "points": 5 },
+      { "text": "Une carte cadeau", "points": 4 },
+      { "text": "Une pizza", "points": 3 },
+      { "text": "Rien du tout", "points": 2 },
+      { "text": "Tout l'argent, why not", "points": 1 }
+    ]
+  },
+  {
+    "id": 30,
+    "question": "Nommez quelque chose que le mari est content que sa femme fasse avec ses copines plutôt qu'avec lui",
+    "answers": [
+      { "text": "Faire du shopping", "points": 6 },
+      { "text": "Papoter/commérer", "points": 5 },
+      { "text": "Regarder des films/séries", "points": 4 },
+      { "text": "Aller à la manucure/au spa", "points": 3 },
+      { "text": "Sortir boire un verre", "points": 2 },
+      { "text": "Se retrouver pour lire", "points": 1 }
+    ]
+  },
+  {
+    "id": 31,
+    "question": "Donnez une raison pour laquelle vous échoueriez à un détecteur de mensonge si on vous demandait si vous avez déjà triché sur quelque chose",
+    "answers": [
+      { "text": "Un contrôle/examen", "points": 6 },
+      { "text": "Mon/ma conjoint(e)", "points": 5 },
+      { "text": "Mes impôts", "points": 4 },
+      { "text": "Un régime", "points": 3 },
+      { "text": "Le boulot", "points": 2 },
+      { "text": "Un jeu/jeu télévisé", "points": 1 }
+    ]
+  }
 ]
